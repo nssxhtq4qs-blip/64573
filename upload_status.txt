@@ -1,0 +1,17 @@
+等待 SSH...
+SSH 已恢复 2026年 10月 07日 星期三 19:39:23 CST
+上传 BladeProbe-arm64e.ipa : OK
+上传 BladeProbe-arm64.ipa : OK
+上传 Blade-arm64e.ipa : OK
+上传 Blade-arm64.ipa : OK
+a93d00bf51d647239352f886c0cbb5af6ee338c866678172267723c145c37987  /tmp/BladeProbe-arm64.ipa
+5a9975bcb409b03e1b48d7cfe3fba97ffd4084aed05a13de15dde4f5de7198b8  /tmp/BladeProbe-arm64e.ipa
+df7baa70532e463fed682945606996ec67067d39a13c154cf7151b312b042171  /tmp/Blade-arm64e.ipa
+ffc0a4ffbb3edfd25fa0c353159f4a846ac19ea71002728344e8fae30980c187  /tmp/Blade-arm64.ipa
+[sudo] password for user: -rw-r--r-- 1 501 501 453249 Oct  7 19:26 /root/fliza/Blade-arm64-fallback-old.ipa
+-rw-r--r-- 1 501 501 442929 Oct  7 19:10 /root/fliza/Blade-arm64-fallback.ipa
+-rw-r--r-- 1 501 501 447075 Oct  7 19:39 /root/fliza/Blade-diag.ipa
+-rw-r--r-- 1 501 501 453249 Oct  7 19:39 /root/fliza/Blade.ipa
+-rw-r--r-- 1 501 501 188212 Oct  7 19:39 /root/fliza/BladeProbe-arm64.ipa
+-rw-r--r-- 1 501 501 188081 Oct  7 19:39 /root/fliza/BladeProbe-arm64e.ipa
+完成 2026年 10月 07日 星期三 19:39:57 CST
